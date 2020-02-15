@@ -25,7 +25,7 @@
 * Memento
 * Observer
 * State
-* Strategy
+* **Strategy**
 * Template
 * Visitor
 
@@ -40,3 +40,6 @@
 8. Abstarction
 9. Polymorphism
 10. Inheritance
+
+#### Sources
+[Strategy pattern](https://www.dofactory.com/javascript/strategy-design-pattern)
