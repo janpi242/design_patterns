@@ -8,7 +8,7 @@
 * Singleton
 
 #### 2. Structural patterns
-* Adapter
+* **Adapter**
 * Bridge
 * Composite
 * Decorator
@@ -23,7 +23,7 @@
 * Iterator
 * Mediator
 * Memento
-* Observer
+* **Observer**
 * State
 * **Strategy**
 * Template
@@ -42,4 +42,4 @@
 10. Inheritance
 
 #### Sources
-[Strategy pattern](https://www.dofactory.com/javascript/strategy-design-pattern)
+[Strategy pattern](https://www.dofactory.com/javascript/strategy-design-pattern), [Observer pattern](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/), [Adapter Pattern](https://www.dofactory.com/javascript/adapter-design-pattern)
