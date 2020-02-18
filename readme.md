@@ -42,4 +42,4 @@
 10. Inheritance
 
 #### Sources
-[Strategy pattern](https://www.dofactory.com/javascript/strategy-design-pattern), [Observer pattern](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/), [Adapter Pattern](https://www.dofactory.com/javascript/adapter-design-pattern)
+[Strategy pattern](https://www.dofactory.com/javascript/strategy-design-pattern), [Observer pattern 1](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/), [observer pattern 2](https://www.dofactory.com/javascript/observer-design-pattern), [Adapter Pattern](https://www.dofactory.com/javascript/adapter-design-pattern)
