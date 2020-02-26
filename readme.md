@@ -3,9 +3,9 @@
 #### 1. Creational patterns
 * Abstract factory
 * Builder
-* Factory method
+* **Factory method**
 * Prototype
-* Singleton
+* **Singleton**
 
 #### 2. Structural patterns
 * **Adapter**
